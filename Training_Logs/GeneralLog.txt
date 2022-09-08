@@ -1,0 +1,8 @@
+2022-09-06/20:42:48		BadData directory deleted before starting validation!!!
+2022-09-06/20:42:48		Good Raw Data Directory deleted successfully!!!
+2022-09-06/20:43:02		Good Raw Data Directory deleted successfully!!!
+2022-09-06/20:43:02		Bad files moved to Archive
+2022-09-06/20:43:02		Bad Raw Data Folder Deleted Successfully!!
+2022-09-07/22:43:49		Good Raw Data Directory deleted successfully!!!
+2022-09-07/22:43:49		Bad files moved to Archive
+2022-09-07/22:43:49		Bad Raw Data Folder Deleted Successfully!!

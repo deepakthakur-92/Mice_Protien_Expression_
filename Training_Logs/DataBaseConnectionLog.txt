@@ -1,0 +1,8 @@
+2022-09-06/20:42:51		Opened training_dataset database successfully
+2022-09-06/20:42:56		Closed training_dataset database successfully!!
+2022-09-06/20:42:56		Opened training_dataset database successfully
+2022-09-06/20:43:02		Opened training_dataset database successfully
+2022-09-07/22:43:40		Opened training_dataset database successfully
+2022-09-07/22:43:44		Closed training_dataset database successfully!!
+2022-09-07/22:43:44		Opened training_dataset database successfully
+2022-09-07/22:43:49		Opened training_dataset database successfully

@@ -1,0 +1,3 @@
+2022-09-06/21:42:44		Good Raw Data Directory deleted successfully!!!
+2022-09-06/21:42:44		Bad files moved to Archive
+2022-09-06/21:42:44		Bad Raw Data Folder Deleted Successfully!!

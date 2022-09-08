@@ -1,0 +1,3 @@
+2022-09-06/20:30:22		LengthOfDateStampInFile:: 8  LengthOfTimeStampInFile:: 6   NumberofColumns:: 82
+2022-09-06/20:42:48		LengthOfDateStampInFile:: 8  LengthOfTimeStampInFile:: 6   NumberofColumns:: 82
+2022-09-07/22:43:38		LengthOfDateStampInFile:: 8  LengthOfTimeStampInFile:: 6   NumberofColumns:: 82
