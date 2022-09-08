@@ -1,3 +1,6 @@
 2022-09-06/21:42:36		Valid File name!! File moved to GoodData Folder :: Mice_Protein_Expression_20220819_023200.csv
 2022-09-06/21:42:36		Valid File name!! File moved to GoodData Folder :: Mice_Protein_Expression_20220819_072145.csv
 2022-09-06/21:42:36		Valid File name!! File moved to GoodData Folder :: Mice_Protein_Expression_20220819_090243.csv
+2022-09-08/17:49:11		Valid File name!! File moved to GoodData Folder :: Mice_Protein_Expression_20220819_023200.csv
+2022-09-08/17:49:11		Valid File name!! File moved to GoodData Folder :: Mice_Protein_Expression_20220819_072145.csv
+2022-09-08/17:49:11		Valid File name!! File moved to GoodData Folder :: Mice_Protein_Expression_20220819_090243.csv

@@ -1,3 +1,6 @@
 2022-09-06/21:42:44		Good Raw Data Directory deleted successfully!!!
 2022-09-06/21:42:44		Bad files moved to Archive
 2022-09-06/21:42:44		Bad Raw Data Folder Deleted Successfully!!
+2022-09-08/17:49:16		Good Raw Data Directory deleted successfully!!!
+2022-09-08/17:49:16		Bad files moved to Archive
+2022-09-08/17:49:16		Bad Raw Data Folder Deleted Successfully!!
