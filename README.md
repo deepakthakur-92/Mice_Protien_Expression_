@@ -18,10 +18,11 @@ mice and 34 trisomic mice(Down syndrome). In the experiments, 15 measurements of
 per sample/mouse were recorded. As a result, there are 38x15, or 570 measurement for control
 mice and 34x15, 510 measurements for trisomic mice. There are 1080 measurements per protein 
 in the dataset. Each measurement can be thought of as a separate sample/mouse.
-link: https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression
+Dataset link: [link](https://archive.ics.uci.edu/ml/datasets/Mice+Protein+Expression)
 
 # Project Demo
-[link](https://www.youtube.com/watch?v=BdcBIAsjWZs)
+Below providing the link of all the document that are required for creating the project
+Link: [Document link](https://www.youtube.com/watch?v=BdcBIAsjWZs)
 
 
 # Documents
