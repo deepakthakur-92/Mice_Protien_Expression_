@@ -56,7 +56,7 @@ Create a Virtual Env with conda create "Your Env name"
 pip install -r requirements.txt
 ~~~
 ~~~
-Run aap.py file
+Run main.py file
 ~~~
 
 
